@@ -1,0 +1,9 @@
+# show dbs
+
+#use dbname
+
+#db.createCollection('dbname')
+
+# db.dbname.insert({name:'value'})
+
+#db.dbname.find().pretty()
