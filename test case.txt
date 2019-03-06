@@ -1,0 +1,7 @@
+#1 => 
+    considering We will have n numbers of students(children) from different schools/college and their 
+    parants are using the app.
+
+    in this case : 
+    we will have n numbers of children with following attributes
+    StudentID, Name, age, school(Organisation) Name, parants Id, etc.
